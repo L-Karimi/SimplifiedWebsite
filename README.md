@@ -1,0 +1,2 @@
+# SimplifiedWebsite
+  mymuppets.netlify.app
