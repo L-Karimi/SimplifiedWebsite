@@ -71,9 +71,9 @@ tr:hover {
   background-color: rgb(80, 255, 153);
 }
 footer {
-  color: blue;
+  color: rgb(7, 7, 7);
   text-align: center;
+  background-color: rgb(27, 40, 226);
+
 }
-footer p {
-  text-align: center;
-}
+
